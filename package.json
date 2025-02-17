@@ -1,5 +1,5 @@
 {
-  "name": "guerra-defans-server",
+  "name": "guerra",
   "version": "1.0.0",
   "description": "Guerra defans sayaç sunucusu",
   "main": "server.js",
